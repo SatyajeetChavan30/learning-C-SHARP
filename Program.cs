@@ -27,7 +27,7 @@
             }
             public int getAge() { return age; }
             public string getName() { return name; }
-            public float getPercent() { return percent; }
+            public float getPercent() { return percent;}
 
         }
     }
